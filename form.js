@@ -16,4 +16,4 @@ button.addEventListener("click", function event(){
        message.textContent = "Strong password successfull accepted! Account created"
        body.style.backgroundColor="green"
     }
-})zz
+})
